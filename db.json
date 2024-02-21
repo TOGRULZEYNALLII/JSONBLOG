@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "94c5",
+      "text": "iphone",
+      "seria": "A",
+      "olcu": "",
+      "reng": "B"
+    },
+    {
+      "id": "7cdd",
+      "text": "IPh",
+      "seria": "",
+      "olcu": "",
+      "reng": ""
+    },
+    {
+      "id": "e858",
+      "text": "PHONE",
+      "seria": "",
+      "olcu": "",
+      "reng": ""
+    },
+    {
+      "id": "6656",
+      "text": "PHO",
+      "seria": "AAA",
+      "olcu": "HH",
+      "reng": "BL"
+    }
+  ]
+}
